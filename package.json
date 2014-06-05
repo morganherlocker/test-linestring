@@ -1,0 +1,28 @@
+{
+  "name": "test-linestring",
+  "version": "0.0.1",
+  "description": "geojson linestring test fixture",
+  "main": "linestring.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/test-linestring.git"
+  },
+  "keywords": [
+    "geojson",
+    "test",
+    "fixture",
+    "linestring"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/test-linestring/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/test-linestring",
+  "devDependencies": {
+    "tape": "^2.13.2"
+  }
+}
